@@ -7,3 +7,7 @@
 print('Hi! I am Susan')
 Hi! I am Susan
 ```
+#### My list  
+- [x] Done introduction to github
+- [x] Completed cat photo app
+- [ ] Added markdown
